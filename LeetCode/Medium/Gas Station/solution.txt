@@ -12,7 +12,7 @@ class Solution:
                 tg=0
                 s=-1
             elif gas[i%n]>cost[i%n] and tg==0 and s==-1:
-                s=i
+                s=i%n
                 tg+=gas[i%n]-cost[i%n]
             else:
                 tg+=gas[i%n]-cost[i%n]
