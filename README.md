@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-305-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-307-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-183-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-113-yellow)
+![Medium](https://img.shields.io/badge/Medium-115-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-9-red)
 
@@ -20,7 +20,7 @@ QOZ0Uqd6qe
 
 ## 🔥 Latest Solved Problem
 
-Unique Binary Search Trees
+Gas Station
 
 ---
 
